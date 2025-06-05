@@ -5,7 +5,7 @@ const App = () => {
   // State to hold all the input data for the salary slip
   const [formData, setFormData] = useState({
     companyName: 'Dharaiya Enterprise',
-    companyAddress: '123 Business Lane, Rajkot, Gujarat, India',
+    companyAddress: '310 Khirasara GIDC, Rajkot, Gujarat, India',
     employeeName: '',
     employeeId: '',
     designation: '',
